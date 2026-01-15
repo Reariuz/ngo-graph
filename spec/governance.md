@@ -47,6 +47,22 @@ Es ist möglich das einzelne Organisationen als einzige ein Label zu einem spezi
 Um zu verhindern das einzelne Organisationen das System mit unsinnigen LAbels spammen und sabotieren beginnt das System mit einer Fixen Anzahl vorausgewählter Labels der geläufigsten Interessensgebieten. 
 Somit wählt man immer das am besten passende Oberthema und erst wenn die Anzahl beteiligter Groß genug ist wird eine Differenzierung durch eine Label aufspaltung möglich. Aus den beginnenden Oberthemen entsteht so die vielfältige Landschaft der Interessensgebiete bis zu dem punkt das Unterschiedliche Oberthemen soweit differenziert werden da sich die Äste unterschiedlicher Oberthemen mergen. 
 
+## 2.2 Chain of Claims
+
+Es muss sichergestellt werden das die Organisation die sich registriert auch existiert und von dem Nutzer vertreten wird der sich als solcher ausgibt.
+Da dies nur mit einer zentralen Kontrollinstanz möglich wäre wird in dem System auf einen absoluten Beweis verzichtet, und stattdessen eine Kette an Behauptungen aufgestellt.
+Diese Reihe an Behauptungen können von der jeweiligen Organisation aufgestellt und durch die anderen Nutzer geprüft werden. Es obliegt somit jedem für sich selbst ob ihm/ihr die Beweise ausreichen um die erstellten Behauptungen zu belegen.
+Die möglichen Behauptung lauten:
+1. Es gibt die Organisation XY
+2. Ich bin ein offizieller Vertreter dieser Organisation.
+
+Dabei sind die aktuell möglichen Belege hierzu die folgenden:
+
+### 2.2.1 Organisationsprüfung
+
+Das schon in 1.1 beschriebene Prüfverfahren ist der erste schritt in der Beweiskette
+
+
 # 3. Welche Mechanismen es nicht geben wird (und warum)
 
 ## 3.1 Populär mechanismen
