@@ -1,8 +1,8 @@
-# 1. Demokratische Entscheidungen
+## 1. Demokratische Entscheidungen
 
 Das System selbst trifft keine Entscheidung oder Wertung. Es wird jedoch aufgrund offen deklarierter Bedinungen die Nutzer/Organisationen zu einer Entscheidung auffordern. Diese betreffen ausschließlich technische und organisatorische Maßnahmen.
 
-## 1.1 Organisations gründung
+### 1.1 Organisations gründung
 
 Die Gründung einer ORG bedarf einer Aufsicht um Bots und Spam zu vermeiden.
 Hierzu werden X zufällige Organisationen die sich in einem Ähnlichen Umfeld bewegen (anhand von regionalität oder Labels) um eine Abstimmung gebeten.
@@ -14,7 +14,7 @@ In jedem Fall gibt es einen initialen ORG Eintrag, dieser wird als inaktiv geken
 Welche ORG diesem zugestimmt oder abgelehnt haben wird im inital Eintrag vermerkt.
 Es ist so in jedem Fall ersichtlich wann sich welche ORG gründen wollte und wer dieser Gründung zugestimmt hat oder diese abgelehnt hat.
 
-## 1.2 Label aufspaltung
+### 1.2 Label aufspaltung
 
 Wird ein Label von X% der gesamtakteure verwendet (oder einer noch zu definierenden höchstzahl) ist daon auszugehen das nicht alle Akteure genau das selbe vertreten. 
 Das System geht nun davon aus das dieses in mehrere Label aufgespaltet werden muss. 
@@ -24,12 +24,12 @@ Bei ausreichender beteiligung werden alle Labels über einem bestimmten Schwelle
 Sodass anschließend zwei oder mehr kleinere Gruppen mit eigenen Labels entstehen.
 Der Wahlprozess sowie welche ORGA auf welches neue LAbel gewechselt hat wird in der Historie der Labels dargestellt.
 
-## 1.3 Label vereinigung
+### 1.3 Label vereinigung
 
 Sind zwei Labels semantisch sehr ähnlich werden die ORGAs beider Labels aufgefordert einer Fusion zuzustimmen oder einer neu-aufteilung.
 Im Falle einer neuaufteilung werden beide Labels behandelt als wäre es eins und mit dem Prozess einer Label aufspaltung fortgefahren.
 
-## 1.4 demokratische Mechanismus
+### 1.4 demokratische Mechanismus
 
 Die Abstimmungen sind geheim um gegenseitige Einflussnahme zu verhindern, nur nach Abschluss der Abstimmung werden die Entscheidungen veröffentlicht.
 Um reaktionäres Handeln zu verhindern findet die Abstimmung erst nach Ablauf einer Frist nach dem Ereignis statt. 
@@ -40,37 +40,51 @@ Die Abstimmung auf ein Ereignis kann daher nicht dazu führen das man zeitnah in
 Das Ziel ist am ende eine Homogene Masse bei der alle Labels einigermaßen Gleichgewichtet verteilt sind und es keine Populär LAbels bei denen sich alle ORGs versammeln. 
 Es ist möglich das einzelne Organisationen als einzige ein Label zu einem spezialthema verbunden haben, es ist jedoch nicht möglich das die Mehrheit der Organsiationen das selbe Label verbunden haben. 
 
-# 2. weitere Mechanismen
+## 2. weitere Mechanismen
 
-## 2.1 Labelerschaffung
+### 2.1 Labelerschaffung
 
 Um zu verhindern das einzelne Organisationen das System mit unsinnigen LAbels spammen und sabotieren beginnt das System mit einer Fixen Anzahl vorausgewählter Labels der geläufigsten Interessensgebieten. 
 Somit wählt man immer das am besten passende Oberthema und erst wenn die Anzahl beteiligter Groß genug ist wird eine Differenzierung durch eine Label aufspaltung möglich. Aus den beginnenden Oberthemen entsteht so die vielfältige Landschaft der Interessensgebiete bis zu dem punkt das Unterschiedliche Oberthemen soweit differenziert werden da sich die Äste unterschiedlicher Oberthemen mergen. 
 
-## 2.2 Chain of Claims
+### 2.2 Chain of Claims
 
 Es muss sichergestellt werden das die Organisation die sich registriert auch existiert und von dem Nutzer vertreten wird der sich als solcher ausgibt.
 Da dies nur mit einer zentralen Kontrollinstanz möglich wäre wird in dem System auf einen absoluten Beweis verzichtet, und stattdessen eine Kette an Behauptungen aufgestellt.
 Diese Reihe an Behauptungen können von der jeweiligen Organisation aufgestellt und durch die anderen Nutzer geprüft werden. Es obliegt somit jedem für sich selbst ob ihm/ihr die Beweise ausreichen um die erstellten Behauptungen zu belegen.
+Es ist wichtig anzumerken das kein Beweis für eine Behauptung absolut ist, vieles kann gefälscht werden oder manipuliert. 
 Die möglichen Behauptung lauten:
 1. Es gibt die Organisation XY
 2. Ich bin ein offizieller Vertreter dieser Organisation.
 
 Dabei sind die aktuell möglichen Belege hierzu die folgenden:
 
-### 2.2.1 Organisationsprüfung
+#### 2.2.1 Organisationsprüfung
 
-Das schon in 1.1 beschriebene Prüfverfahren ist der erste schritt in der Beweiskette
+Das schon in 1.1 beschriebene Prüfverfahren ist der erste schritt in der Beweiskette. Es dient als Beleg für die Existenz der Organisation basierend auf der Vertrauenswürdigkeit der bürgen.
+
+#### 2.2.2 Verlinkung auf Webseite
+
+Es kann von dem Profil auf die Webseite der Organisation verlinkt werden, dies diehnt als Beleg für die Existenz der Organisation 
+
+#### 2.2.3 Verlinkung von der Webseite auf NGO Graph
+
+Es kann auf der Organisationswebseite ein Siegel platziert werden, welches auf das Profil von NGO-Graph verweist. Dies belegt, dass es die Organisation gibt, man Zugriff auf die Organisationswebseite hat und das dass verwendete Profil dasjenige ist welches die Organisation verwendet.
+
+#### 2.2.4 Organisaionsemail
+
+Es wird zur Gründung einer Organisation eine Email hinterlegt, diese ist transparent für alle sichtbar. Die domain dieser Email dient als beleg dafür das dieses Profil mit der Organisation auch tatsächlich in verbindung steht. Es kann auch bei einer namentlichen E-mail adresse statt eines Gruppenpostfaches ein Beleg dafür sein das der Verwalter des Profils wirklich dessen Vertreter ist.
 
 
-# 3. Welche Mechanismen es nicht geben wird (und warum)
 
-## 3.1 Populär mechanismen
+## 3. Welche Mechanismen es nicht geben wird (und warum)
+
+### 3.1 Populär mechanismen
 
 Die Platform dient dazu langfriste gemeinsame Akteure zu vernetzten und interessenstrukturen aufzuzeigen. Mechanismen wie trends, Bewertungen, "Likes"oder ähnliches wird es daher nicht geben.
 Diese würden nur dazu führen, dass Machtstrukturen geformt und Meinungsführer definiert werden. Diese würden verhindern das kleinere ORGs ihre Gewichtigkeit gelten machen können und die Platform würde sich auf wenige Meinungsführer zu den einzenen Themen reduzieren.
 
-## 3.2 Moderation
+### 3.2 Moderation
 
 Das System, und ich als Erschaffer, greifen nicht in die Willensbildung der ORGS ein. Wir werden weder Vorschläge machen, noch bevorzugen oder Entscheidungen unterbinden.
 Auch werden wir keine ORGs vom bertreten der Platform abhalten. ORGs die am Rand der Demokratie stehen, tuen dies auch auf der Platform. Sie erzielen hieraus keinen Mehrwert da gerade sie ein Interesse daran haben das ihre Verbindungs und Themenstruktur nicht öffentlich wird. Da Faschismus auf der gleichschaltung von Interessen und Gruppen basiert scheitern diese aufgrund der vielfalt und erzwungen aufspaltung großer Themen. Auch lässt sich über die fehlenden populärmechanismen kein Wortführer definieren. 
